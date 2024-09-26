@@ -45,6 +45,8 @@ namespace TestWithNUnit.Selenium
 
             IWebElement LoginButton = driver.FindElement(By.Name("login-button"));
             LoginButton.Click();
+
+            Thread.Sleep(1000);
         }
 
 
