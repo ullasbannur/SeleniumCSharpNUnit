@@ -1,0 +1,51 @@
+{
+  "uuid": "eed46b33-25cf-4af3-b637-469c936e6371",
+  "historyId": "1b5c8ae827afce935bb16a8c30445d1a",
+  "testCaseId": "f85ce0f548b94feac5ff735f7e02da4f",
+  "fullName": "TestWithNUnit:TestWithNUnit.NUnitTest.Class2.addCart()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOY1KK9TVYGPN"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestWithNUnit.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "addCart"
+    },
+    {
+      "name": "testClass",
+      "value": "Class2"
+    }
+  ],
+  "links": [],
+  "name": "addCart",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "0dd32850-4e3a-4572-8f19-3435f953e269-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1726633225091,
+  "stop": 1726633225091
+}

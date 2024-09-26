@@ -1,0 +1,12 @@
+{
+  "uuid": "f5fd3e23-19fa-40a8-acf9-f92cc8c4fce3",
+  "name": "TestWithNUnit.NUnitTest.Class2.login",
+  "children": [
+    "d07094aa-0057-49d2-b976-741cbdbcadf7"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726632944306,
+  "stop": 1726632944308
+}

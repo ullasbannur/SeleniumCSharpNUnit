@@ -1,0 +1,14 @@
+{
+  "uuid": "0c47eb1b-c1c4-4188-b2ce-837720ac56ba",
+  "name": "TestWithNUnit.NUnitTest.Class2",
+  "children": [
+    "ccbd5a6b-e6ae-46be-bbfd-04e38729d71a",
+    "014897b5-a69c-45d9-a88a-ac2302b3908d",
+    "d07094aa-0057-49d2-b976-741cbdbcadf7"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726632944262,
+  "stop": 1726632944310
+}

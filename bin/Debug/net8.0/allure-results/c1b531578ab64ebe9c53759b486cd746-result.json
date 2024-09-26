@@ -1,0 +1,51 @@
+{
+  "uuid": "3186216c-b1a6-4e37-ab3f-d9ccffbb790f",
+  "historyId": "384807168e6035f7db68804af1465a17",
+  "testCaseId": "39c567825465f5ba14de5390dd11179d",
+  "fullName": "TestWithNUnit:TestWithNUnit.NUnitTest.Class2.products()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOY1KK9TVYGPN"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestWithNUnit.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "products"
+    },
+    {
+      "name": "testClass",
+      "value": "Class2"
+    }
+  ],
+  "links": [],
+  "name": "products",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "07dd9e5f-5ff5-4a1f-8c75-36680e78cc84-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1726633099373,
+  "stop": 1726633099377
+}

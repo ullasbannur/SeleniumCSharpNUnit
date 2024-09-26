@@ -1,0 +1,12 @@
+{
+  "uuid": "8c5ab9ce-a638-4e97-9cbb-c10a42ae60fd",
+  "name": "TestWithNUnit.NUnitTest.Class2.addCart",
+  "children": [
+    "a806d209-f54f-4182-8f9b-d739dadeabc2"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726487119954,
+  "stop": 1726487119958
+}

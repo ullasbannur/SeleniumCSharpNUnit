@@ -1,0 +1,51 @@
+{
+  "uuid": "d07094aa-0057-49d2-b976-741cbdbcadf7",
+  "historyId": "2f0109ed4b3fbbd35d10bf4a1fef5429",
+  "testCaseId": "63a37a6d0ad49d04aafc9b2641a7b3ca",
+  "fullName": "TestWithNUnit:TestWithNUnit.NUnitTest.Class2.login()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOY1KK9TVYGPN"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestWithNUnit.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "login"
+    },
+    {
+      "name": "testClass",
+      "value": "Class2"
+    }
+  ],
+  "links": [],
+  "name": "login",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "27439628-c464-4245-8307-13e946f90181-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1726632944306,
+  "stop": 1726632944307
+}

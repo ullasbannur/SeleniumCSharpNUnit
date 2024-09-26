@@ -1,0 +1,12 @@
+{
+  "uuid": "8a0770e3-bd2c-4594-a5e6-4cd7594f48b3",
+  "name": "TestWithNUnit.NUnitTest.Class2.products",
+  "children": [
+    "29c0db44-bc7a-4ce0-b721-5f50be2a54b4"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726487119907,
+  "stop": 1726487119946
+}
